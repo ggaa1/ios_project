@@ -1,4 +1,4 @@
-<img width="458" height="955" alt="스크린샷 2026-06-14 120648" src="https://github.com/user-attachments/assets/03711803-3018-4e7d-a363-784da8e09d4b" /># MyRoutine 💧🌙
+## MyRoutine 💧🌙
 
 > iOS 프로그래밍 기말 프로젝트 — **수분 섭취 · 수면 습관 관리 앱**
 
@@ -13,13 +13,13 @@
 | 화면 | 설명 |
 |------|------|
 | **홈** | 오늘의 수분 진행률 링, 빠른 물 추가(한 잔/큰 컵/병), 어젯밤 수면 요약 |
-![Uploading 스크린샷 2026-06-14 115634.png…]()
+<img width="497" height="1014" alt="스크린샷 2026-06-14 115634" src="https://github.com/user-attachments/assets/d36f2613-a01a-41aa-8db5-b4a4da67dff0" />
 
 | **기록 · 수분** | 음료 종류(물·커피·차·주스) 선택, 빠른 추가 / 내 컵 용량 추가, 오늘 기록 목록·삭제 |
-![Uploading 스크린샷 2026-06-14 120648.png…]()
+<img width="458" height="955" alt="스크린샷 2026-06-14 120648" src="https://github.com/user-attachments/assets/08cbabef-3e42-44b2-8a41-ca8364a4552f" />
 
 | **기록 · 수면** | 취침·기상 시각, 총 수면 시간 자동 계산, 수면의 질(별점 1~5), 최근 기록 목록 |
-![Uploading 스크린샷 2026-06-14 115649.png…]()
+<img width="491" height="1021" alt="스크린샷 2026-06-14 115649" src="https://github.com/user-attachments/assets/e1479662-bdff-410d-8d39-7aadb156854e" />
 
 | **통계** | 최근 7일 수분(L)·수면(h) 막대 차트, 평균 요약 |
 <img width="479" height="948" alt="스크린샷 2026-06-14 115824" src="https://github.com/user-attachments/assets/4a4c9011-d92f-4906-8dee-2ddcca5655fb" />
