@@ -68,20 +68,7 @@ Swift Charts(iOS 16+) 대신 SwiftUI의 `Circle().trim`(진행률 링)과
 
 ## 프로젝트 구조
 
-```
-ios_project/
-└─ ios/
-   ├─ ios.xcodeproj
-   └─ ios/
-      ├─ AppDelegate.swift          # 앱 진입점
-      ├─ SceneDelegate.swift        # SwiftUI 루트 호스팅 + DataStore 주입
-      ├─ MyRoutineCore.swift        # 모델 · DataStore · 알림 서비스
-      ├─ MyRoutineViews.swift       # 탭 화면(홈/기록/통계/설정)
-      ├─ MyRoutineComponents.swift  # 재사용 컴포넌트 · 디자인 토큰
-      ├─ ViewController.swift
-      ├─ Info.plist
-      └─ Base.lproj/                # LaunchScreen · Main 스토리보드
-```
+<img width="2816" height="1536" alt="Gemini_Generated_Image_drs81kdrs81kdrs8" src="https://github.com/user-attachments/assets/e9fcaa60-8574-45c6-a563-a083ed33dcbe" />
 
 ## 실행 방법
 
