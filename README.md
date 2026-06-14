@@ -13,20 +13,20 @@
 | 화면 | 설명 |
 |------|------|
 | **홈** | 오늘의 수분 진행률 링, 빠른 물 추가(한 잔/큰 컵/병), 어젯밤 수면 요약 |
-<img width="497" height="1014" alt="스크린샷 2026-06-14 115634" src="https://github.com/user-attachments/assets/d36f2613-a01a-41aa-8db5-b4a4da67dff0" />
-
 | **기록 · 수분** | 음료 종류(물·커피·차·주스) 선택, 빠른 추가 / 내 컵 용량 추가, 오늘 기록 목록·삭제 |
-<img width="458" height="955" alt="스크린샷 2026-06-14 120648" src="https://github.com/user-attachments/assets/08cbabef-3e42-44b2-8a41-ca8364a4552f" />
-
 | **기록 · 수면** | 취침·기상 시각, 총 수면 시간 자동 계산, 수면의 질(별점 1~5), 최근 기록 목록 |
-<img width="491" height="1021" alt="스크린샷 2026-06-14 115649" src="https://github.com/user-attachments/assets/e1479662-bdff-410d-8d39-7aadb156854e" />
-
 | **통계** | 최근 7일 수분(L)·수면(h) 막대 차트, 평균 요약 |
-<img width="479" height="948" alt="스크린샷 2026-06-14 115824" src="https://github.com/user-attachments/assets/4a4c9011-d92f-4906-8dee-2ddcca5655fb" />
-
 | **설정** | 일일 수분 목표·컵 용량, 목표 수면 시간, 수분/취침 알림 스케줄링 |
-<img width="475" height="941" alt="스크린샷 2026-06-14 115837" src="https://github.com/user-attachments/assets/32c30246-545a-4ac0-ba51-6d0ddd73ef4f" />
 
+## 스크린샷
+
+<p align="center">
+  <img width="220" alt="홈" src="https://github.com/user-attachments/assets/d36f2613-a01a-41aa-8db5-b4a4da67dff0" />
+  <img width="220" alt="기록 · 수분" src="https://github.com/user-attachments/assets/08cbabef-3e42-44b2-8a41-ca8364a4552f" />
+  <img width="220" alt="기록 · 수면" src="https://github.com/user-attachments/assets/e1479662-bdff-410d-8d39-7aadb156854e" />
+  <img width="220" alt="통계" src="https://github.com/user-attachments/assets/4a4c9011-d92f-4906-8dee-2ddcca5655fb" />
+  <img width="220" alt="설정" src="https://github.com/user-attachments/assets/32c30246-545a-4ac0-ba51-6d0ddd73ef4f" />
+</p>
 
 ## 스크린 흐름
 
@@ -78,7 +78,9 @@ Swift Charts(iOS 16+) 대신 SwiftUI의 `Circle().trim`(진행률 링)과
 
 ## 프로젝트 구조
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_drs81kdrs81kdrs8" src="https://github.com/user-attachments/assets/e9fcaa60-8574-45c6-a563-a083ed33dcbe" />
+<p align="center">
+  <img width="720" alt="MyRoutine 아키텍처 구조도" src="https://github.com/user-attachments/assets/e9fcaa60-8574-45c6-a563-a083ed33dcbe" />
+</p>
 
 ## 실행 방법
 
