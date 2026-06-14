@@ -82,10 +82,6 @@ Swift Charts(iOS 16+) 대신 SwiftUI의 `Circle().trim`(진행률 링)과
   <img width="720" alt="MyRoutine 아키텍처 구조도" src="https://github.com/user-attachments/assets/e9fcaa60-8574-45c6-a563-a083ed33dcbe" />
 </p>
 
-## 실행 방법
+## 프로젝트 소개 영상
+https://www.youtube.com/watch?v=n2LFnqLmWiI
 
-1. `ios/ios.xcodeproj`를 Xcode에서 엽니다.
-2. iOS 14.5 이상 시뮬레이터 또는 실기기를 타겟으로 선택합니다.
-3. **Run (⌘R)** 으로 빌드 및 실행합니다.
-
-> 알림 기능은 **설정 → 알림 설정 적용**을 누르면 권한 요청 후 스케줄링됩니다.
